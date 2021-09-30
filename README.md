@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Idan</h1>
 <h3 align="center">Welcome to my world!</h3>
 
-- 🔭 I’m currently working on **World of Games**
+- 🔭 I’m currently working on **something cool**
 
 - 🌱 I’m currently learning **Terraform, Kubernetes**
 
