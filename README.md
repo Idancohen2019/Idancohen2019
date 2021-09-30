@@ -1,5 +1,5 @@
-<h1 >Welcome, I'm Idan</h1>
-<h3 >Welcome to my world! :bowtie: </h3>
+<h1 >How you doing? I'm Idan</h1>
+<h3 >Welcome to my page! :bowtie: </h3>
 
 - 🔭 I’m currently working on **something cool**
 - 🌱 I’m currently learning **Terraform, Kubernetes**
