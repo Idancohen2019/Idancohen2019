@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Idan</h1>
-<h3 align="center">Welcome to my world!</h3>
+<h1 >Hi there, I'm Idan aka I.C</h1>👋
+<h3 >Welcome to my world!</h3>
 
 - 🔭 I’m currently working on **something cool**
-
 - 🌱 I’m currently learning **Terraform, Kubernetes**
-
 - 📫 How to reach me **Idancohen033@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
